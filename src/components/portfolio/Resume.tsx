@@ -46,21 +46,21 @@ export default function Resume() {
 
       {/* Hidden printable resume */}
       <div id="resume-print" className="hidden print:block p-10 font-body text-sm" style={{ color: "#18181B" }}>
-        <h1 className="font-display text-2xl font-bold" style={{ color: "#2563EB" }}>Pratham Prashant Shetty</h1>
+        <h1 className="font-display text-2xl font-bold" style={{ color: "#8B5CF6" }}>Pratham Prashant Shetty</h1>
         <p>CS Student & Web Dev Enthusiast</p>
         <p className="font-mono text-xs">prathamshetty6123@gmail.com · github.com/prathamshetty231 · Mumbai, Maharashtra</p>
-        <hr className="my-4" style={{ borderColor: "#2563EB" }} />
-        <h2 className="font-display font-bold" style={{ color: "#2563EB" }}>Career Objective</h2>
+        <hr className="my-4" style={{ borderColor: "#8B5CF6" }} />
+        <h2 className="font-display font-bold" style={{ color: "#8B5CF6" }}>Career Objective</h2>
         <p>Aspiring web developer seeking internship opportunities to apply and expand my technical skills in real-world projects.</p>
-        <h2 className="mt-3 font-display font-bold" style={{ color: "#2563EB" }}>Education</h2>
+        <h2 className="mt-3 font-display font-bold" style={{ color: "#8B5CF6" }}>Education</h2>
         <p>Xavier Institute of Engineering — BE in Information Technology (2024–2028) · CGPA: 7.41/10</p>
-        <h2 className="mt-3 font-display font-bold" style={{ color: "#2563EB" }}>Skills</h2>
+        <h2 className="mt-3 font-display font-bold" style={{ color: "#8B5CF6" }}>Skills</h2>
         <p>Python, C, JavaScript, SQL, HTML, CSS, React (Basics), Flask, MySQL, Git, GitHub, Data Structures, DBMS, OS, CN</p>
-        <h2 className="mt-3 font-display font-bold" style={{ color: "#2563EB" }}>Projects</h2>
+        <h2 className="mt-3 font-display font-bold" style={{ color: "#8B5CF6" }}>Projects</h2>
         <p><strong>Cognify</strong> — Stress-aware task manager built with HTML, CSS, JavaScript, Python, Flask, MySQL. (In Development)</p>
-        <h2 className="mt-3 font-display font-bold" style={{ color: "#2563EB" }}>Hackathons</h2>
+        <h2 className="mt-3 font-display font-bold" style={{ color: "#8B5CF6" }}>Hackathons</h2>
         <p>Smart India Hackathon 2025 · HackXelerate 2026 (VJTI, Mumbai)</p>
-        <h2 className="mt-3 font-display font-bold" style={{ color: "#2563EB" }}>Soft Skills</h2>
+        <h2 className="mt-3 font-display font-bold" style={{ color: "#8B5CF6" }}>Soft Skills</h2>
         <p>Problem Solving, Team Collaboration, Communication, Adaptability, Time Management</p>
       </div>
     </>
