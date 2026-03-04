@@ -67,9 +67,9 @@ export default {
         sm: "calc(var(--radius) - 4px)",
       },
       boxShadow: {
-        card: "0 1px 3px rgba(0,0,0,0.06), 0 4px 16px rgba(0,0,0,0.04)",
-        "card-hover": "0 8px 32px rgba(37,99,235,0.12)",
-        "btn-hover": "0 4px 16px rgba(37,99,235,0.25)",
+        card: "0 1px 3px rgba(0,0,0,0.2), 0 4px 16px rgba(0,0,0,0.15)",
+        "card-hover": "0 8px 32px rgba(139,92,246,0.2)",
+        "btn-hover": "0 4px 16px rgba(139,92,246,0.35)",
       },
       maxWidth: {
         content: "1100px",
